@@ -1,0 +1,5 @@
+Learning Git & Github 
+
+Understanding how to modify document 
+push them into the staging area 
+commit 
